@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C537A0A4-5324-4A05-B219-21A3C839D5BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp1</RootNamespace>
+    <AssemblyName>WindowsApp1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Korisnik\Desktop\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApp1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApp1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CB6A5D409545167088815F555456E8939F3A41C6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsApp1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_1_PP.Designer.vb">
+      <DependentUpon>Test_1_PP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test_1_PP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_2_TT.Designer.vb">
+      <DependentUpon>Test_2_TT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test_2_TT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_1_TT.Designer.vb">
+      <DependentUpon>Test_1_TT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test_1_TT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_2_PP.Designer.vb">
+      <DependentUpon>Test_2_PP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test_2_PP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_1_PP.resx">
+      <DependentUpon>Test_1_PP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_2_TT.resx">
+      <DependentUpon>Test_2_TT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_1_TT.resx">
+      <DependentUpon>Test_1_TT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_2_PP.resx">
+      <DependentUpon>Test_2_PP.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="WindowsApp1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saobracajni-znakovi-obavestenja-95.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a01_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1a11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_a40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b16_bicikl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_b25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_c006_smjer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_c09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_france_road_sign_b21a2svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_p.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slika20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_33040812_1853138641403860_7132172818577358848_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_c25_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

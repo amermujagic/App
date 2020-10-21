@@ -1,0 +1,56 @@
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_1_PP.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_2_PP.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_2_TT.resources
+C:\Users\Korisnik\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_1_TT.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_1_PP.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_2_TT.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_1_TT.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_2_PP.resources
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.application
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.TrustInfo.xml
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\Korisnik\Desktop\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.application
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_1_PP.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_2_TT.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_1_TT.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Test_2_PP.resources
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.TrustInfo.xml
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Korisnik\seminarski radovi\Testovi za polaganje\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
